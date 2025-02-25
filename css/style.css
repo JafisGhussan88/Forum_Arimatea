@@ -438,3 +438,9 @@
     padding-right: 0;
     border-right: none;
 }
+
+/* edit */
+
+span {
+    color: var(--primary);
+}
